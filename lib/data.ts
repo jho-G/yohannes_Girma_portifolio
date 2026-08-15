@@ -2,6 +2,7 @@ import { Code2, Database, LayoutTemplate, Server, Wrench } from "lucide-react";
 
 import {
   Css3Icon,
+  DockerIcon,
   GitIcon,
   GithubIcon,
   Html5Icon,
@@ -9,6 +10,7 @@ import {
   JsIcon,
   LinkedinIcon,
   NextjsIcon,
+  PostmanIcon,
   PythonIcon,
   ReactIcon,
   TailwindIcon,
@@ -67,7 +69,6 @@ export const skillCategories: SkillCategory[] = [
     label: "Database",
     icon: Database,
     skills: [
-      { name: "SQL", icon: Database },
       { name: "PostgreSQL", icon: Database },
       { name: "MySQL", icon: Database },
     ],
@@ -75,7 +76,11 @@ export const skillCategories: SkillCategory[] = [
   {
     label: "Tools",
     icon: Wrench,
-    skills: [{ name: "Git", icon: GitIcon }],
+    skills: [
+      { name: "Git", icon: GitIcon },
+      { name: "Docker", icon: DockerIcon },
+      { name: "Postman", icon: PostmanIcon },
+    ],
   },
 ];
 

@@ -291,6 +291,8 @@ __turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$componen
 __turbopack_context__.s([
     "Css3Icon",
     ()=>Css3Icon,
+    "DockerIcon",
+    ()=>DockerIcon,
     "GitIcon",
     ()=>GitIcon,
     "GithubIcon",
@@ -305,6 +307,8 @@ __turbopack_context__.s([
     ()=>LinkedinIcon,
     "NextjsIcon",
     ()=>NextjsIcon,
+    "PostmanIcon",
+    ()=>PostmanIcon,
     "PythonIcon",
     ()=>PythonIcon,
     "ReactIcon",
@@ -543,6 +547,150 @@ function GitIcon(props) {
         columnNumber: 5
     }, this);
 }
+function DockerIcon(props) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+        viewBox: "0 0 24 24",
+        fill: "currentColor",
+        ...props,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "8.8",
+                y: "1.4",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 107,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "5.2",
+                y: "5",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 108,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "8.8",
+                y: "5",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 109,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "12.4",
+                y: "5",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 110,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "1.6",
+                y: "8.6",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 111,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "5.2",
+                y: "8.6",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 112,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "8.8",
+                y: "8.6",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 113,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
+                x: "12.4",
+                y: "8.6",
+                width: "3.2",
+                height: "3.2",
+                rx: "0.3"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 114,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                d: "M1.2 12.4h21.6c0 3.4-2.6 5.6-6.6 5.6H7.8c-4 0-6.6-2.2-6.6-5.6z"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 115,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                d: "M19.4 9.6c1.2-1 2.6-1 3.4 0-.4 1.4-1.8 2-3.4 1.6z"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 116,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/components/icons/brand-icons.tsx",
+        lineNumber: 106,
+        columnNumber: 5
+    }, this);
+}
+function PostmanIcon(props) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+        viewBox: "0 0 24 24",
+        fill: "currentColor",
+        ...props,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                fillRule: "evenodd",
+                clipRule: "evenodd",
+                d: "M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm0 2.4a9.6 9.6 0 1 1 0 19.2 9.6 9.6 0 0 1 0-19.2z"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 124,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                d: "M17.5 6.5 6.9 10.6l3.9 1.9 1.9 3.9z"
+            }, void 0, false, {
+                fileName: "[project]/components/icons/brand-icons.tsx",
+                lineNumber: 129,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/components/icons/brand-icons.tsx",
+        lineNumber: 123,
+        columnNumber: 5
+    }, this);
+}
 }),
 "[project]/lib/data.ts [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
@@ -669,10 +817,6 @@ const skillCategories = [
         icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__["Database"],
         skills: [
             {
-                name: "SQL",
-                icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__["Database"]
-            },
-            {
                 name: "PostgreSQL",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$database$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Database$3e$__["Database"]
             },
@@ -689,6 +833,14 @@ const skillCategories = [
             {
                 name: "Git",
                 icon: __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$icons$2f$brand$2d$icons$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GitIcon"]
+            },
+            {
+                name: "Docker",
+                icon: __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$icons$2f$brand$2d$icons$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["DockerIcon"]
+            },
+            {
+                name: "Postman",
+                icon: __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$icons$2f$brand$2d$icons$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["PostmanIcon"]
             }
         ]
     }

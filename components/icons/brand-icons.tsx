@@ -100,3 +100,33 @@ export function GitIcon(props: SVGProps<SVGSVGElement>) {
     </svg>
   );
 }
+
+export function DockerIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
+      <rect x="8.8" y="1.4" width="3.2" height="3.2" rx="0.3" />
+      <rect x="5.2" y="5" width="3.2" height="3.2" rx="0.3" />
+      <rect x="8.8" y="5" width="3.2" height="3.2" rx="0.3" />
+      <rect x="12.4" y="5" width="3.2" height="3.2" rx="0.3" />
+      <rect x="1.6" y="8.6" width="3.2" height="3.2" rx="0.3" />
+      <rect x="5.2" y="8.6" width="3.2" height="3.2" rx="0.3" />
+      <rect x="8.8" y="8.6" width="3.2" height="3.2" rx="0.3" />
+      <rect x="12.4" y="8.6" width="3.2" height="3.2" rx="0.3" />
+      <path d="M1.2 12.4h21.6c0 3.4-2.6 5.6-6.6 5.6H7.8c-4 0-6.6-2.2-6.6-5.6z" />
+      <path d="M19.4 9.6c1.2-1 2.6-1 3.4 0-.4 1.4-1.8 2-3.4 1.6z" />
+    </svg>
+  );
+}
+
+export function PostmanIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
+      <path
+        fillRule="evenodd"
+        clipRule="evenodd"
+        d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm0 2.4a9.6 9.6 0 1 1 0 19.2 9.6 9.6 0 0 1 0-19.2z"
+      />
+      <path d="M17.5 6.5 6.9 10.6l3.9 1.9 1.9 3.9z" />
+    </svg>
+  );
+}
