@@ -62,7 +62,7 @@ export const skillCategories: SkillCategory[] = [
       { name: "Python", icon: PythonIcon },
       { name: "Django", icon: Server },
       { name: "REST API", icon: Code2 },
-      { name: "Java", icon: JavaIcon },
+      { name: "Go (Golang)", icon: GoIcon },
     ],
   },
   {
