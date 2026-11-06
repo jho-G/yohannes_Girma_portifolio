@@ -37,7 +37,7 @@ export const socialLinks: SocialLink[] = [
 ];
 
 export const typingRoles = [
-  "Django Developer",
+  "Django & Go Developer",
   "Backend Developer",
   "API Builder",
 ];
