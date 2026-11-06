@@ -5,7 +5,7 @@ Personal portfolio built with Next.js (App Router), TypeScript, and Tailwind CSS
 ## Tech Stack
 
 - **Framework**: Next.js 16 (App Router, Turbopack)
-- **Languages**: TypeScript, Python, Go (Golang), JavaScript
+- **Languages**: TypeScript, Python, Go, JavaScript
 - **Styling**: Tailwind CSS v4
 - **Components**: shadcn/ui (Base UI primitives)
 - **Animations**: Framer Motion + GSAP (ScrollTrigger)
