@@ -27,8 +27,11 @@ export function Skills() {
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
               {skills.map(({ name, icon: Icon }, index) => (
                 <ScrollReveal key={name} delay={index * 0.08}>
-                  <Card className="items-center justify-center gap-3 px-4 py-8 text-center ring-foreground/10 transition-all hover:-translate-y-1 hover:ring-primary/40 hover:shadow-lg hover:shadow-primary/10">
-                    <Icon className="size-8 text-primary" />
+                  <Card
+                    title={name}
+                    className="items-center justify-center gap-3 px-4 py-8 text-center ring-foreground/10 transition-all hover:-translate-y-1 hover:ring-primary/40 hover:shadow-lg hover:shadow-primary/10"
+                  >
+                    <Icon className="size-8 text-primary" aria-label={name} />
                     <span className="text-sm font-medium">{name}</span>
                   </Card>
                 </ScrollReveal>
