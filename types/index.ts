@@ -17,6 +17,8 @@ export interface SocialLink {
 export interface Skill {
   name: string;
   icon: IconComponent;
+  category?: string;
+  description?: string;
 }
 
 export interface SkillCategory {
