@@ -7,8 +7,8 @@ Personal portfolio built with Next.js (App Router), TypeScript, and Tailwind CSS
 - **Framework**: Next.js 16 (App Router, Turbopack)
 - **Languages**: TypeScript, Python, Go, JavaScript
 - **Styling**: Tailwind CSS v4
-- **Components**: shadcn/ui (Base UI primitives)
-- **Animations**: Framer Motion + GSAP (ScrollTrigger)
+- **Backend & Architecture**: Microservices, REST API, gRPC, Kafka
+- **DevOps & Tools**: Docker, CI/CD, Git, Postman
 - **Smooth Scroll**: Lenis
 - **Theming**: next-themes (dark/light mode)
 - **Form Service**: EmailJS
