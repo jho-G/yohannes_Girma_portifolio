@@ -1,4 +1,12 @@
-import { Code2, Database, LayoutTemplate, Server, Wrench } from "lucide-react";
+import {
+  Boxes,
+  Code2,
+  Database,
+  LayoutTemplate,
+  RefreshCw,
+  Server,
+  Wrench,
+} from "lucide-react";
 
 import {
   Css3Icon,
