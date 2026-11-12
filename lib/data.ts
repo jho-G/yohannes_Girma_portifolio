@@ -92,6 +92,7 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       { name: "Git", icon: GitIcon },
       { name: "Docker", icon: DockerIcon },
+      { name: "CI/CD", icon: RefreshCw },
       { name: "Postman", icon: PostmanIcon },
     ],
   },
