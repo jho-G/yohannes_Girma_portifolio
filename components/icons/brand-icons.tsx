@@ -50,6 +50,14 @@ export function KafkaIcon(props: SVGProps<SVGSVGElement>) {
   );
 }
 
+export function GrpcIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
+      <path d="M12 2 3.5 6.9v10.2L12 22l8.5-4.9V6.9zm6.5 13.9-6.5 3.8-6.5-3.8V8.1L12 4.3l6.5 3.8zm-9.3-5.7v3.6h5.6v-1.8h-3.6v-1.8zm3.8-2.4H9.2v1.8h3.8z" />
+    </svg>
+  );
+}
+
 export function TelegramIcon(props: SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
