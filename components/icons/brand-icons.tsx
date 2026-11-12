@@ -42,6 +42,14 @@ export function GoIcon(props: SVGProps<SVGSVGElement>) {
 }
 
 
+export function KafkaIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
+      <path d="M12.025 8.423a2.44 2.44 0 0 1-2.436-2.437A2.44 2.44 0 0 1 12.025 3.55a2.44 2.44 0 0 1 2.436 2.436 2.44 2.44 0 0 1-2.436 2.437m0 9.463a2.44 2.44 0 0 1-2.436-2.436 2.44 2.44 0 0 1 2.436-2.436 2.44 2.44 0 0 1 2.436 2.436 2.44 2.44 0 0 1-2.436 2.436m6.764-4.732a2.44 2.44 0 0 1-2.437-2.436 2.44 2.44 0 0 1 2.437-2.436 2.44 2.44 0 0 1 2.436 2.436 2.44 2.44 0 0 1-2.436 2.436M4.463 8.35a1.83 1.83 0 0 1 1.83-1.83 1.83 1.83 0 0 1 1.829 1.83v7.3a1.83 1.83 0 0 1-1.83 1.83 1.83 1.83 0 0 1-1.829-1.83zm5.126.969V7.93l6.09 3.045v1.442zm0 6.751v-1.389l6.09-3.045v1.389z" />
+    </svg>
+  );
+}
+
 export function TelegramIcon(props: SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 24 24" fill="currentColor" {...props}>
