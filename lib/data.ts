@@ -48,8 +48,8 @@ export const socialLinks: SocialLink[] = [
 
 export const typingRoles = [
   "Django & Go Developer",
-  "Backend Developer",
-  "API Builder",
+  "Backend & Microservices Engineer",
+  "API & Distributed Systems Builder",
 ];
 
 export const skillCategories: SkillCategory[] = [
