@@ -74,6 +74,7 @@ export const skillCategories: SkillCategory[] = [
       { name: "REST API", icon: Code2 },
       { name: "Go", icon: GoIcon },
       { name: "gRPC", icon: GrpcIcon },
+      { name: "Kafka", icon: KafkaIcon },
       { name: "Microservices", icon: Boxes },
     ],
   },
