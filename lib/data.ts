@@ -73,6 +73,7 @@ export const skillCategories: SkillCategory[] = [
       { name: "Django", icon: Server },
       { name: "REST API", icon: Code2 },
       { name: "Go", icon: GoIcon },
+      { name: "gRPC", icon: GrpcIcon },
       { name: "Microservices", icon: Boxes },
     ],
   },
